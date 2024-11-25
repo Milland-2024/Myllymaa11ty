@@ -1,7 +1,7 @@
 body {
      margin: 0;
      padding: 5vw 20vw;
-     justify-content: center;
+     text-align: center;
      color: rgb(111, 204, 221);
      background-color: rgb(24, 89, 45);
      font-family: sans-serif;
@@ -16,7 +16,10 @@ a {
      text-decoration: none;
 }
 .hero {
-     height: 20vw;
+     height: 10vw;
      display: flex;
      justify-content: center;
+     h1 {
+          font-size: 40rem;
+     }
 }
