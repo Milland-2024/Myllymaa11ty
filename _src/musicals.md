@@ -1,5 +1,6 @@
 ---
 layout: layout.njk
+title: Musicals
 ---
 
 Musicals are a fun way to tell a multitude of tales, whether they be on the screen or stage.  Some people think the singing and dancing is a little excesive, but I think these can be used to convey emotions in a way no other art form can.  I love listening to music, so the idea of using it to tell a story is one that ressonates with me.  Some of my favourite musicals include The Lion King, Hamilton, and Come From Away.

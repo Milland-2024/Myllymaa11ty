@@ -1,5 +1,6 @@
 ---
 layout: layout.njk
+title: My Favourite Things to Talk About
 ---
 # Welcome to my site!
 
