@@ -22,9 +22,7 @@ a {
   height: 10vw;
   display: flex;
   justify-content: center;
-}
-.hero h1 {
-  font-size: 40rem;
+  font-size: 4rem;
 }
 
 /*# sourceMappingURL=style.css.map */
